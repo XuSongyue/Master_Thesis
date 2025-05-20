@@ -1,6 +1,6 @@
 # Master_Thesis
 
-## 📂 Project Overview: LST Analysis & Forecasting
+## 📂 Thesis Codes Overview: LST Analysis & Forecasting
 
 This repository contains Python scripts for analyzing and forecasting **Land Surface Temperature (LST)** in **Shanghai** using geospatial data and deep learning techniques. The project is part of a master's thesis focused on understanding the spatial dynamics of the Urban Heat Island (UHI) effect and its relation to industrialization.
 
@@ -19,7 +19,7 @@ This script implements an LSTM (Long Short-Term Memory) model to forecast LST tr
 - Forecasts future LST values for 2025–2030
 - Visualizes results with past observations, test set performance, and future projections
 
-> 📈 These codes combine remote sensing, geospatial analysis, and deep learning to uncover and predict urban heat patterns in a rapidly urbanizing city.
+> 📈 These codes combine remote sensing, geospatial analysis, and deep learning to uncover and predict urban heat patterns in Shanghai.
 
 ### Requirements
 - Python 3.8+
