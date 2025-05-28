@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="zh"><Esri><CreaDate>20250422</CreaDate><CreaTime>02103500</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process Name="按掩膜提取" ToolSource="d:\program files (x86)\arcgis\desktop10.8\ArcToolbox\Toolboxes\Spatial Analyst Tools.tbx\ExtractByMask" Date="20250422" Time="021035">ExtractByMask H:\b.推文\40.LST\月_LST_Day_1km\2000-2024年_月LST\2020\LST_Day2020_2.tif 上海 H:\c.我的任务\124.上海市LST\LST\2020\LST_Day2020_2.tif</Process></lineage></DataProperties></Esri></metadata>
